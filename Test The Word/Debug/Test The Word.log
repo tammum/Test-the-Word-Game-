@@ -1,0 +1,16 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Test The Word.cpp
+f:\test the word_final version\test the word\Form1.h(366): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\test the word_final version\test the word\Form1.h(435): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Test The Word.cpp(9): error C2976: 'std::array': too few template arguments
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(306): note: see declaration of 'std::array'
+Test The Word.cpp(9): error C3699: '^': cannot use this indirection on type 'std::array'
+  Test The Word.cpp(9): note: compiler replacing '^' with '*' to continue parsing
+Test The Word.cpp(9): error C2664: 'int main(std::array *)': cannot convert argument 1 from 'int' to 'std::array *'
+  Test The Word.cpp(9): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+  Generating Code...
